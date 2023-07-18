@@ -1,0 +1,35 @@
+[
+      {
+        "nombre": "Ruby Evans",
+        "testimonio": "Sus pasteles son una verdadera obra de arte, tanto en sabor como en presentación. Siempre superan mis expectativas.",
+        "puntuacion": 5
+      },
+      {
+        "nombre": "Hazel Turner",
+        "testimonio": "A veces me gustaría que ampliaran su variedad de opciones sin gluten o aptas para personas con alergias alimentarias",
+        "puntuacion": 4
+      },
+      {
+        "nombre": "Ren Okada",
+        "testimonio": "Gracias por hacer de cada ocasión especial un momento aún más memorable con sus exquisitos postres.",
+        "puntuacion": 5
+      },
+      {
+        "nombre": "Chika Nakajima",
+        "testimonio": "Cada vez que visito su pastelería, me hacen sentir especial. Su atención al cliente es excepcional y siempre me hacen sentir bienvenido/a.",
+        "puntuacion": 5
+      },
+      {
+        "nombre": "Willow Thompson",
+        "testimonio": "Sus postres son un verdadero placer para los sentidos. No solo se ven hermosos, sino que también tienen un sabor delicioso y equilibrado.",
+        "puntuacion": 4
+      },{
+        "nombre": "Luna Morgan",
+        "testimonio": "En ocasiones, los tiempos de espera pueden ser un poco largos, pero la calidad de los pasteles definitivamente compensa la espera.",
+        "puntuacion": 3
+      },{
+        "nombre": "Sakura Tanaka",
+        "testimonio": "Siempre recomendaré su pastelería a mis amigos y familiares. No hay otro lugar donde pueda encontrar sabores y texturas tan únicos.",
+        "puntuacion": 5
+      }
+]
